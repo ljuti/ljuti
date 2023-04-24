@@ -3,7 +3,6 @@
 My name is Lauri, and I'm a developer/CTO at
 - [@finitec](https://github.com/finitec) &mdash; A leading tech talent agency in Finland
 - [@get-sales](https://github.com/get-sales) &mdash; premier B2B sales performance booster
-- [@libpixel](https://github.com/libpixel) &mdash; your friendly lightning-fast image processing service for developers
 
 ---
 
