@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-My name is Lauri, and I'm a developer/CTO at
-- [@finitec](https://github.com/finitec) &mdash; A leading tech talent agency in Finland
-- [@get-sales](https://github.com/get-sales) &mdash; premier B2B sales performance booster
+- [@neuralmux](https://github.com/neuralmux) &mdash; Principal Hyper Engineer @ NeuralMux
+- [@neuraljets](https://github.com/get-sales) &mdash; Wing Commander
 
 ---
 
